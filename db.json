@@ -15,11 +15,11 @@
   ],
   "doblocation": [
     {
-      "dob" : "23/04/1998",
+      "dob" : "23-04-1998",
       "location" : "Banglore"
     },
     {
-      "dob" : "04/12/1999",
+      "dob" : "04-12-1999",
       "location" : "Pune"
     }
   ],
