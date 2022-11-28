@@ -1,29 +1,26 @@
 {
   "employee": [
     {
-      "id": "1",
-      "parentId" : "",
+      "empid": "1",
       "Name": "Abc"
     },
     {
-      "id": "2",
-      "parentId" : "1",
+      "empid": "2",
       "Name": "Def"
     },
     {
-      "id": "3",
-      "parentId" : "5",
+      "empid": "3",
       "Name": "fed"
     }
   ],
-  "locationCompensation": [
+  "doblocation": [
     {
-      "location" : "Banglore",
-      "amount" : "1000"
+      "dob" : "23/04/1998",
+      "location" : "Banglore"
     },
     {
-      "location" : "Pune",
-      "amount" : "800"
+      "dob" : "04/12/1999",
+      "location" : "Pune"
     }
   ],
   "Experience": [
