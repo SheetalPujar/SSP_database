@@ -2,11 +2,13 @@
   "employeedetails": [
     {
       "empid": "1",
-      "name" : "Suraj"
+      "name" : "Suraj",
+      "parentid" : "2"
     },
     {
       "empid": "2",
-      "name" : "Pratam"
+      "name" : "Pratam",
+      "parentid" : "2"
     }
   ],
   "birthdetails": [
