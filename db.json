@@ -1,24 +1,32 @@
 {
-  "levels": [
+  "employeedetails": [
     {
-      "id": "1",
-      "parentId" : "",
-      "levelName": "Total Company"
+      "empid": "1",
+      "name" : "Suraj"
     },
     {
-      "id": "2",
-      "parentId" : "1",
-      "levelName": "Company D (100% Owned)"
+      "empid": "2",
+      "name" : "Pratam"
     }
   ],
-  "capitalProjects": [
+  "birthdetails": [
     {
-      "level" : "Company D (100%)",
-      "amount" : "1000"
+      "dob" : "23/05/1996",
+      "birthplace" : "Delhi"
     },
     {
-      "level" : "Company C (80% owned)",
-      "amount" : "800"
+      "dob" : "06/11/1998",
+      "birthplace" : "Hubli"
+    } 
+  ],
+   "joiningdetails": [
+    {
+      "doj" : "01/03/2018",
+      "location" : "Bangalore"
+    },
+    {
+      "doj" : "01/03/2018",
+      "location" : "Bangalore"
     } 
   ]
 }
