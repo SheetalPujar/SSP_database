@@ -1,34 +1,39 @@
 {
-  "employeedetails": [
+  "employee": [
     {
-      "empid": "1",
-      "name" : "Suraj",
-      "parentid" : "2"
+      "id": "1",
+      "parentId" : "",
+      "Name": "Abc"
     },
     {
-      "empid": "2",
-      "name" : "Pratam",
-      "parentid" : "2"
+      "id": "2",
+      "parentId" : "1",
+      "Name": "Def"
+    },
+    {
+      "id": "3",
+      "parentId" : "5",
+      "Name": "fed"
     }
   ],
-  "birthdetails": [
+  "locationCompensation": [
     {
-      "dob" : "23/05/1996",
-      "birthplace" : "Delhi"
+      "location" : "Banglore",
+      "amount" : "1000"
     },
     {
-      "dob" : "06/11/1998",
-      "birthplace" : "Hubli"
-    } 
+      "location" : "Pune",
+      "amount" : "800"
+    }
   ],
-   "joiningdetails": [
+  "Experience": [
     {
-      "doj" : "01/03/2018",
-      "location" : "Bangalore"
+      "exp-01": "1",
+      "exp-02" : "3"
     },
     {
-      "doj" : "01/03/2018",
-      "location" : "Bangalore"
-    } 
+      "exp-01": "2",
+      "exp-02" : "2"
+    }
   ]
 }
